@@ -1,7 +1,7 @@
 name: knightfoxapps
 favicon: null
-layout_spectrum: 0.5964887335430831
-typography_spectrum: 0.5083479406312108
+layout_spectrum: 0
+typography_spectrum: 0.66412
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.1829535043798387
-  lightness: 0.23974177171476185
+    - '#ff0033'
+    - '#ff0000'
+    - '#000000'
+    - '#ff0024'
+    - '#ff0040'
+  brandStrength: 0.25
+  lightness: 0.625
   saturation: 0.6525664429645985
   rhythmicContrast: 0.24771124962717295
 purpose: []
